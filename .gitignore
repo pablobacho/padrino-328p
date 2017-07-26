@@ -1,0 +1,6 @@
+# Backups
+*.kicad_pcb-bak
+*.bak
+
+# Fabrication zip
+fab/*.zip
